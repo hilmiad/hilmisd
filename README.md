@@ -17,6 +17,7 @@ A web and game dev enthusiast. Currently passioante currently about frontend dev
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="UnityEngine"/>
 </p>
 
 ---
