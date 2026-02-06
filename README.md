@@ -5,10 +5,10 @@ A web and game dev enthusiast. Currently passionate about frontend development a
 ---
 
 ### About me
-- 🎓 Recent graduate from **Universitas Siliwangi**
-- 💻 Focused on **Front-End** and **Web Design**
-- 🌱 Currently learning **HTML5, CSS3, and JavaScript**
-- 📫 Leave me a message!: **adhiawanhilmy10@gmail.com**
+- Recent graduate from **Universitas Siliwangi**
+- Focused on **Front-End** and **Web Design**
+- Currently learning **HTML5, CSS3, and JavaScript**
+- Leave me a message!: **adhiawanhilmy10@gmail.com**
 
 ### Languages and Tools
 <p align="left">
