@@ -4,13 +4,13 @@ Seorang yang sangat tertarik dengan dunia pengembangan web dan mobile app dengan
 
 ---
 
-### 🚀 Tentang Saya
+### 🚀 About me
 - 🎓 Baru saja menyelesaikan pendidikan di **Universitas Siliwangi**
 - 💻 Fokus pada pengembangan **Front-End** dan **Web Design**
 - 🌱 Saat ini sedang mendalami **HTML5, CSS3, dan Javascript.**
 - 📫 Leave me a message!: **adhiawanhilmy10@gmail.com**
 
-### 🛠️ Teknologi & Peralatan
+### 🛠️ Tools
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
