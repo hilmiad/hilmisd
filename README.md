@@ -1,6 +1,6 @@
 # Hi, I'm Hilmi 👋
 
-Seorang yang sangat tertarik dengan dunia pengembangan web dan mobile app dengan dengan fokus keqhlian study Teknologi Multimedia dan Game
+A web and game dev enthusiast in my own fairytale
 
 ---
 
