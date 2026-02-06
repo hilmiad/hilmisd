@@ -1,4 +1,4 @@
-# Hi, I'm Hilmi. 👋
+# Hi, I'm Hilmi.
 
 A web and game dev enthusiast. Currently passionate about frontend development and UI/UX in my own fairytale.
 
