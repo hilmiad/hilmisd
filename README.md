@@ -1,13 +1,13 @@
 # Hi, I'm Hilmi.
 
-A web and game dev enthusiast. Currently passioante currently about frontend development and UI/UX in my own fairytale.
+A web and game dev enthusiast. Currently passionate about frontend development and UI/UX in my own fairytale.
 
 ---
 
 ### About me
 - 🎓 Recent graduate from **Universitas Siliwangi**
-- 💻 Focused on **Front-End** dan **Web Design**
-- 🌱 Currently learning **HTML5, CSS3, dan Javascript.**
+- 💻 Focused on **Front-End** and **Web Design**
+- 🌱 Currently learning **HTML5, CSS3, and JavaScript.**
 - 📫 Leave me a message!: **adhiawanhilmy10@gmail.com**
 
 ### Tools
@@ -17,14 +17,14 @@ A web and game dev enthusiast. Currently passioante currently about frontend dev
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="UnityEngine"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp.png" alt="c#"/>
+  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logotype.png" alt="C#"/>
 </p>
 
 ---
 
 ### Let's connect!
 <p align="left">
-<a href="https://linkedin.com/in/[USERNAME-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/[USERNAME-INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hilmyad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://instagram.com/hilmii_______" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" /></a>
 </p>
