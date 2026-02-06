@@ -18,13 +18,13 @@ A web and game dev enthusiast. Currently passioante currently about frontend dev
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/000000/unity.png" alt="UnityEngine"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logotype.png" alt="C#"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp.png" alt="C#"/>
 </p>
 
 ---
 
 ### Let's connect!
 <p align="left">
-<a href="https://linkedin.com/in/[USERNAME-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[USERNAME-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/[USERNAME-INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
